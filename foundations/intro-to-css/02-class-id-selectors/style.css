@@ -10,12 +10,11 @@
     font-size: 36px;
 }
 
-.odd.cooler {
+.adjust-font-size {
     font-size: 24px;
 }
 
 #fourth {
-    background-color: #90ee90;
-    font-size: 24px;
+    background-color: #90ee90;    
     font-weight: bold;
 }
